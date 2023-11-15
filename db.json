@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": "nrzqi",
+      "name": "Nabila Rizqi Mahardika",
+      "password": "nabilakelompok24",
+      "email": "nabila@gmail.com"
+    },
+    {
+      "id": "deboraotr",
+      "name": "Debora Oktaria Lubis",
+      "password": "debokelompok24",
+      "email": "debora@gmail.com"
+    },
+    {
+      "id": "faizaltri",
+      "name": "Faizal Tri Ardhani Wijaya",
+      "password": "faizalkelompok24",
+      "email": "faizal@gmail.com"
+    }
+  ]
+}
